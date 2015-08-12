@@ -56,7 +56,6 @@
     "paper-tooltip": "PolymerElements/paper-tooltip#^1.0.0",
     "paper-scroll-header-panel": "PolymerElements/paper-scroll-header-panel#^1.0.0",
     "paper-people-list":"prateekjadhwani/paper-people-list",
-    "sweet-material-table":"pdelanauze/sweet-material-table",
-    "paper-divider":"marcus7777/paper-divider"
+    "sweet-material-table":"pdelanauze/sweet-material-table"
   }
 }
