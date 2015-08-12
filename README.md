@@ -4,6 +4,10 @@ The paper elements are a set of UI components designed to implement Google's [ma
 
 ## Roadmap
 
+### you can help by working on
+
+* [`paper-filter`](https://github.com/HackITtoday/paper-filter)
+
 ### Elements recently released
 
 * [`paper-people-list`](https://github.com/prateekjadhwani/paper-people-list) - A button that opens up a menu overlay
