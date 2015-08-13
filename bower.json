@@ -57,6 +57,6 @@
     "paper-scroll-header-panel": "PolymerElements/paper-scroll-header-panel#^1.0.0",
     "paper-people-list":"prateekjadhwani/paper-people-list",
     "sweet-material-table":"pdelanauze/sweet-material-table",
-    "paper-divider":"wincinderith/paper-divider"
+    "paper-divider":"wincinderith/paper-divider#master"
   }
 }
