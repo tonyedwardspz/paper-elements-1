@@ -101,6 +101,7 @@
     "mat-breadcrumb":"expandjs/mat-breadcrumb",
     "mat-avatar":"expandjs/mat-avatar",
     "mat-checkbox":"expandjs/mat-checkbox",
-    "mat-menu-button":"expandjs/mat-menu-button"
+    "mat-menu-button":"expandjs/mat-menu-button",
+    "paper-filter":"HackITtoday/paper-filter"
   }
 }
