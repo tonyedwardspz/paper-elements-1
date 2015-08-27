@@ -58,6 +58,8 @@
     "paper-people-list":"prateekjadhwani/paper-people-list",
     "sweet-material-table":"pdelanauze/sweet-material-table",
     "paper-divider":"wincinderith/paper-divider#master",
-    "paper-filter":"HackITtoday/paper-filter"
+    "paper-filter":"HackITtoday/paper-filter",
+    "vellum-selectbox":"zikes/vellum-selectbox",
+    "vellum-chip":"zikes/vellum-chip"
   }
 }
