@@ -60,6 +60,7 @@
     "paper-divider":"wincinderith/paper-divider#master",
     "paper-filter":"HackITtoday/paper-filter",
     "vellum-selectbox":"zikes/vellum-selectbox",
-    "vellum-chip":"zikes/vellum-chip"
+    "vellum-chip":"zikes/vellum-chip",
+    "paper-input-autocomplete":"rodo1111/paper-input-autocomplete"
   }
 }
