@@ -4,5 +4,4 @@ The paper elements are a set of UI components designed to implement Google's [ma
 
 ### you can help by working on
 
-* need updating to 1.0 [`paper-datepicker`](https://github.com/HackITtoday/paper-datepicker)
 * needed love [`paper-filter`](https://github.com/HackITtoday/paper-filter)
