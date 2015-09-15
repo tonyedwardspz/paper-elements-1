@@ -61,6 +61,7 @@
     "paper-filter":"HackITtoday/paper-filter",
     "vellum-selectbox":"zikes/vellum-selectbox",
     "vellum-chip":"zikes/vellum-chip",
-    "paper-input-autocomplete":"rodo1111/paper-input-autocomplete"
+    "paper-input-autocomplete":"rodo1111/paper-input-autocomplete",
+    "jv-datepicker":"motss/jv-datepicker"
   }
 }
