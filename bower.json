@@ -59,6 +59,7 @@
     "vellum-selectbox":"zikes/vellum-selectbox",
     "vellum-chip":"zikes/vellum-chip",
     "paper-input-autocomplete":"rodo1111/paper-input-autocomplete",
-    "jv-datepicker":"motss/jv-datepicker"
+    "jv-datepicker":"motss/jv-datepicker",
+    "paper-character":"tonyedwardspz/paper-character#^1.0.5"
   }
 }
